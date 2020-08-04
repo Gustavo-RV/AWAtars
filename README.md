@@ -1,2 +1,1 @@
-# AWAtars
-Proyecto educativo
+# school-management-pwa
